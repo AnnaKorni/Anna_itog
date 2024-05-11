@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\obj\Debug\net8.0\Itog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\obj\Debug\net8.0\Itog.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\obj\Debug\net8.0\Itog.AssemblyInfo.cs
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\obj\Debug\net8.0\Itog.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\bin\Debug\net8.0\Itog.exe
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\bin\Debug\net8.0\Itog.deps.json
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\bin\Debug\net8.0\Itog.runtimeconfig.json
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\bin\Debug\net8.0\Itog.dll
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\bin\Debug\net8.0\Itog.pdb
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\obj\Debug\net8.0\Itog.dll
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\obj\Debug\net8.0\refint\Itog.dll
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\obj\Debug\net8.0\Itog.pdb
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\obj\Debug\net8.0\Itog.genruntimeconfig.cache
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Itog\obj\Debug\net8.0\ref\Itog.dll
