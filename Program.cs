@@ -5,6 +5,13 @@
 
 string[] array = ["one", "two", "three", "four", "five"];
 
+int size = SizeNewArray(array);
+string[] newArray = GetnewArray(array, size);
+printArray(array);
+System.Console.Write(" → ");
+printArray(newArray);
+
+
 int SizeNewArray(string[] array)
 {
     int count = 0;
