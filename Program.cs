@@ -5,7 +5,6 @@
 
 string[] array = ["one", "two", "three", "four", "five"];
 
-
 int SizeNewArray(string[] array)
 {
     int count = 0;
@@ -15,6 +14,21 @@ int SizeNewArray(string[] array)
             count++;
     }
     return count;
+}
+
+string[] GetnewArray(string[] array, int size)
+{
+    string[] newArray = new string[size];
+    int j = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3)
+        {
+            newArray[j] = array[i];
+            j++;
+        }
+    }
+    return newArray;
 }
 
 
